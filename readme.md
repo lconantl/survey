@@ -1,4 +1,7 @@
-# survey
+# Survey
+
+[![Release](https://img.shields.io/github/v/release/lconantl/survey)](https://github.com/lconantl/survey/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](license)
 
 Статическая библиотека на C++20 для интерактивных опросов в консоли. Вопросы с выбором
 управляются стрелками и цветом, есть ввод текста и пароля. Работает на Windows и Linux.
