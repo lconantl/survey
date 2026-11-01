@@ -1,6 +1,6 @@
-/cmake-build-*/
-/build*/
-/out/
-.idea
-.vs
+cmake-build-release-win
+cmake-build-debug-win
+cmake-build-release-wsl
+cmake-build-debug-wsl
+
 *.exe
